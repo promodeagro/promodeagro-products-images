@@ -1,7 +1,7 @@
 // **DO THIS**:
 //   Replace BUCKET_NAME with the bucket name.
 //
-var albumBucketName = "promodeagro-media-bucket";
+var albumBucketName = "promodeagro-images-prod-ui-root";
 
 // **DO THIS**:
 //   Replace this block of code with the sample code located at:
