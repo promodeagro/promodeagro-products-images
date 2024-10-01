@@ -8,9 +8,9 @@ var albumBucketName = "promodeagro-images-prod-ui-root";
 //   Cognito -- Manage Identity Pools -- [identity_pool_name] -- Sample Code -- JavaScript
 //
 // Initialize the Amazon Cognito credentials provider
-AWS.config.region = "ap-south-1"; // Region
+AWS.config.region = "us-east-1"; // Region
 AWS.config.credentials = new AWS.CognitoIdentityCredentials({
-    IdentityPoolId: "ap-south-1:26449ec0-cb6d-48b4-813b-4aee5f0960ea",
+    IdentityPoolId: "us-east-1:613a679e-edca-4fb3-b209-15170eef823c",
 });
 
 // Create a new service object
